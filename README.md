@@ -6,6 +6,12 @@ Main project code
 ### Group16_LDA.ipynb
 Supplementary LDA attempt
 
+### run_twint.py
+Twitter scraper using Twint
+
+### dropNclean.ipynb
+Cleaning of data
+
 
 ### train_labelled.csv
 Labelled data: 2020 rows
