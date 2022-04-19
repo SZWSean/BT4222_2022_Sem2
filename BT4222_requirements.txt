@@ -1,0 +1,9 @@
+pandas
+numpy
+nltk
+rake_nltk
+scikit-learn
+vaderSentiment
+matplotlib
+wordcloud
+twint
